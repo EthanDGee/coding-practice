@@ -2,7 +2,7 @@
 
 My solutions to various Exercism problems across different programming languages.
 
-**Total Problems Solved: 28**
+**Total Problems Solved: 29**
 
 ## Bash
 - [Hello World](solutions/bash/hello-world/1)
@@ -24,6 +24,7 @@ My solutions to various Exercism problems across different programming languages
 - [Log Levels](solutions/cpp/log-levels/1)
 - [Making The Grade](solutions/cpp/making-the-grade/1)
 - [Pacman Rules](solutions/cpp/pacman-rules/1)
+- [Pangram](solutions/cpp/pangram/1)
 - [Prime Factors](solutions/cpp/prime-factors/1)
 - [Raindrops](solutions/cpp/raindrops/1)
 - [Space Age](solutions/cpp/space-age/1)
