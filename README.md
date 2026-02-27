@@ -2,7 +2,7 @@
 
 My solutions to various Exercism problems across different programming languages.
 
-**Total Problems Solved: 27**
+**Total Problems Solved: 28**
 
 ## Bash
 - [Hello World](solutions/bash/hello-world/1)
@@ -28,6 +28,7 @@ My solutions to various Exercism problems across different programming languages
 - [Raindrops](solutions/cpp/raindrops/1)
 - [Space Age](solutions/cpp/space-age/1)
 - [Speedywagon](solutions/cpp/speedywagon/1)
+- [Triangle](solutions/cpp/triangle/1)
 - [Trinary](solutions/cpp/trinary/1)
 - [Troll The Trolls](solutions/cpp/troll-the-trolls/3)
 - [Vehicle Purchase](solutions/cpp/vehicle-purchase/1)
