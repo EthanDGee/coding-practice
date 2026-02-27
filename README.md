@@ -2,7 +2,7 @@
 
 My solutions to various Exercism problems across different programming languages.
 
-**Total Problems Solved: 30**
+**Total Problems Solved: 31**
 
 ## Bash
 - [Hello World](solutions/bash/hello-world/1)
@@ -37,5 +37,6 @@ My solutions to various Exercism problems across different programming languages
 
 ## Rust
 - [Armstrong Numbers](solutions/rust/armstrong-numbers/1)
+- [Collatz Conjecture](solutions/rust/collatz-conjecture/1)
 - [Hello World](solutions/rust/hello-world/1)
 - [Leap](solutions/rust/leap/1)
