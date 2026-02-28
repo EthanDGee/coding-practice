@@ -2,7 +2,7 @@
 
 My solutions to various Exercism problems across different programming languages.
 
-**Total Problems Solved: 31**
+**Total Problems Solved: 32**
 
 ## Bash
 - [Hello World](solutions/bash/hello-world/1)
@@ -25,6 +25,7 @@ My solutions to various Exercism problems across different programming languages
 - [Making The Grade](solutions/cpp/making-the-grade/1)
 - [Pacman Rules](solutions/cpp/pacman-rules/1)
 - [Pangram](solutions/cpp/pangram/1)
+- [Power Of Troy](solutions/cpp/power-of-troy/1)
 - [Prime Factors](solutions/cpp/prime-factors/1)
 - [Raindrops](solutions/cpp/raindrops/1)
 - [Sieve](solutions/cpp/sieve/1)
